@@ -1,4 +1,4 @@
 # DevOps
-THIS IS MY DevOps repository
-vedant has created it
-Date : 18/07/2024
+THIS IS MY DevOps repository<br>
+vedant has created it<br>
+Date : 18/07/2024<br>
